@@ -7,3 +7,4 @@ You can easily train Flux models using Gradio through Docker. We focus solely on
 3. Face data cropping preprocessing for portrait model training
 4. Data preprocessing functionality
 5. Inference functionality for trained models
+6. Support runpod
